@@ -23,6 +23,8 @@ Lexer - The job of the lexer is to check the code grammatically (indentation, se
 
 Types in Go Lang - Almost everything in Go is kind of a type . Example : String , Bool , Integer , Floating , Complex (number with imaginary values) , Arrays, Slices , Maps , Structs , Pointer , Functions , Channels.
 
+if we define a variable/method with capital letter , it means we are declaring it public 
+
 fp - is the shortcut to print fmt.println()
 
 walrus operator - via using this no need to add var or datatype keyword 
