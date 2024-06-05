@@ -1,5 +1,11 @@
 # Go Tutorial
 
+Go is compiled , Go tool can be run direclty on the system , as far as Go in installed.
+Unlike Java , we dont get any Byte code in order to run it on some other machine.
+There are no swtich cases here , and it misses a lot more features try-catch no semi-colons etc.
+We dont have classes in Go , we have structs here
+We dont have Method Overloading here.
+
 Golang.org - official site
 
 Go mod init - gives go.mod file 
