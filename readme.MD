@@ -13,7 +13,7 @@ Install go extension in Vscode
 
 Go help <command> - to know about the command
 
-go mod init hello - to create the go.mod file
+go mod init hello - to create the go.mod file having module has hello and go version (just like npm init)
 
 Go run main.go - is to run the file main.go
 
